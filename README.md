@@ -4,7 +4,6 @@ We provide two very high-resolution land use change detection datasets, LUCD-HF 
 # 2.Examples of Land Use Scene Images
 
 # 3.Filetree of Datasets
-
 ```plaintext
 Filetree
 ├── /LUCD-Datasets/
